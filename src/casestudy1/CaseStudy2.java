@@ -36,7 +36,7 @@ public class CaseStudy2 {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS); // wait till whole page loads 
 		driver.findElement(By.xpath("//*[@id=\"navbar\"]/ul/li[2]/a")).click(); // click on courses (all courses)
 		
-		//Note: We didn't go through fluent wait script yet.
+		
 		
 
 	}
