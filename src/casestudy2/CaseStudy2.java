@@ -1,3 +1,5 @@
+//Implementing Waits in Selenium
+
 package casestudy2;
 
 import java.util.concurrent.TimeUnit;
@@ -38,7 +40,7 @@ public class CaseStudy2 {
 		
 		//Note: We didn't go through fluent wait script yet.
 		
-
+        
 	}
 
 }
